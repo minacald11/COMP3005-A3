@@ -7,10 +7,7 @@ This Java project demonstrates database connectivity, SQL operations, and JDBC u
 through an application that connects to a PostgreSQL database to perform CRUD operations (Create, Read, Update, Delete) on a students table.
 
 *- Download the PostgreSQL JDBC driver from https://jdbc.postgresql.org/download.html
- if you don’t already have it. Place the JAR in the project folder and include it in the classpath when compiling and running.
-
-- git clone https://github.com/minacald11/COMP3005-A3.git
-*
+ if you don’t already have it. Place the JAR in the project folder and include it in the classpath when compiling and running.*
 
 
 ##Structure
